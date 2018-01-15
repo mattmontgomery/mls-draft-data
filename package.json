@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async": "^2.6.0",
+    "chalk": "^2.3.0",
+    "google-spreadsheet": "^2.0.4",
+    "table-scraper": "^0.1.0",
+    "x-ray": "^2.3.2"
+  }
+}
