@@ -9,9 +9,9 @@ Example: https://docs.google.com/spreadsheets/d/1BFVKn6r7fXf1MDJIREv2uT85Ne67sJu
 Setup the following:
 
 - `config.json`
-- `config.example.json`
+- `config.credentials.json`
 
-### Setting up Google Sheets credentials
+### Setting up Google credentials (for use in Google Drive)
 
 Follow the steps here to create credentials to use for interacting with a Google Sheets doc you own.
 
